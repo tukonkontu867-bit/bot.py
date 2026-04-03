@@ -1,8 +1,0 @@
-requirements.txt
-python-telegram-bot==20.3
-aiohttp
-pandas
-numpy
-scikit-learn
-joblib
-nest_asyncio
